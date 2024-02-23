@@ -1,2 +1,2 @@
 # Tic-Tac-Toe-in-C
-Tic-Tac-Toe capstone project in C
+My first terminal project in C: Terminal-based Tic-Tac-Toe.
